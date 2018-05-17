@@ -39,6 +39,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         return true
     }
     
+    
+    
+    
+    xc lvjbgoewgfl .scboefgy0wrhp;g .sfbkpoerwhgnpwr;g.s cpbi0fbhypnwr;g
+    
     func appDel() {
         
         dOBH0EFpb d lvhdv '
