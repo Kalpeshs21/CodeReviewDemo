@@ -33,6 +33,17 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         }
         
         
+        var a=0
+        var b=1
+        
+        for i in 0...1000 {
+            if a==b {
+                print("True")
+            }
+            a+=1
+        }
+        
+        
     }
 
     func applicationWillResignActive(_ application: UIApplication) {
