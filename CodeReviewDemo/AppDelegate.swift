@@ -16,43 +16,21 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
-        
-        //Adsfbinwblowrgyhsfjkvbfnbgain a new one
-        fenblfb. s.b
-        nhskbnsbsfd
-        b
-        
-        sfnbhopdfsbmelfbpoeflb
-        efb;pfhbieorlbn efp;b
-        fjhbeoflbn epobherpb;ebjebknefbheb
-        bherb;erbnoerbe
-        rbepheobmnlfb
-        
-        
-        dfbhefiob nldfb
-        
-        dvnbodfbnldfb
-        
-        
-        //This is the first pull request
-        
         return true
     }
     
-    
-    
-    
-    xc lvjbgoewgfl .scboefgy0wrhp;g .sfbkpoerwhgnpwr;g.s cpbi0fbhypnwr;g
-    
+   
     func appDel() {
         
-        dOBH0EFpb d lvhdv '
+        var a=0
+        var b=1
         
-        dfhbodfbln df;bd
-        fb
-        dfbh9dfobln dfl;b
-        dfbjhuf;bdfb
-        
+        for i in 0...1000 {
+            if a==b {
+                print("True")
+            }
+            a+=1
+        }
         
         
     }
